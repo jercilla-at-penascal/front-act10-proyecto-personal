@@ -1,1 +1,66 @@
 # front-act10-proyecto-personal
+
+## Situación profesional
+
+Crear desde cero una web para el portfolio personal donde se empleen las habilidades demandadas en un entorno profesional real.
+
+## Profesión:
+
+Desarollador Frontend.
+
+## Competencias
+
+- Crear una interfaz de usuario web adaptable, utilizando un framemework profesional: [React](https://es.react.dev/)
+
+- Herramienta profesional de construcción FrontEnd: [Vite](https://vite.dev/)
+
+- Gestionar el estado de la app, utilizando una librería profesional: [Zustand](https://zustand-demo.pmnd.rs/) + [Axios](https://axios-http.com/es/docs/intro)
+
+- Gestionar los estilos de cada componente de forma aislada: [Tailwind](https://tailwindcss.com/)
+
+- Testing profesional: [Testing Library](https://testing-library.com/) + [Playwright](https://playwright.dev/) + [MSVjs](https://mswjs.io/)
+
+## Necesidad
+
+Proyecto personal a elegir que incluya, al menos las siguientes características:
+
+ - Uso de un API externa al menos.
+   
+ - Separación de parte pública y privada a partir de un sistema externo de autenticación (OAuth)
+
+
+## Modalidad pedagógica
+
+Trabajo personal
+
+## Modalidad de evaluación
+
+Revisión de entregables por parte del profesorado.
+
+## Entregables
+
+1. Historias de usuario que contemplan los requisitos de la actividad.
+
+2. Prototipo de baja fidelidad (boceto).
+
+3. Prototipo de alta fidelidad y guía de estilo (penpot).
+
+4. HTML y recursos (imágenes y css) en un repositorio github personal.
+
+5. Web publicada en internet.
+
+
+
+## Criterios de rendimiento
+
+- Toda la funcionalidad cubierta.
+- Código correctamente indentado y limpio.
+- Todos los tags correctamente abiertos/cerrados (https://validator.w3.org/).
+- Comentarios de código donde se necesiten.
+- Ficheros no-html en directorios aparte.
+- Se valorará si se puede ver el avance a través de los commits.
+- El conjunto de las tareas han de cubrir la funcionalidad requerida por el cliente.
+- Cada commit ha de dejar producto funcional.
+- Ha de estar publicado para poder ver una versión live, y el enlace ha de estar en el `README.md`
+
+
