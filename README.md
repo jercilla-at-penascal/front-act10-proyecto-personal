@@ -1,12 +1,15 @@
 # front-act10-proyecto-personal
 
+
 ## Situación profesional
 
 Crear desde cero una web para el portfolio personal donde se empleen las habilidades demandadas en un entorno profesional real.
 
+
 ## Profesión:
 
 Desarollador Frontend.
+
 
 ## Competencias
 
@@ -20,22 +23,37 @@ Desarollador Frontend.
 
 - Testing profesional: [Testing Library](https://testing-library.com/) + [Playwright](https://playwright.dev/) + [MSVjs](https://mswjs.io/)
 
+
 ## Necesidad
 
 Proyecto personal a elegir que incluya, al menos las siguientes características:
 
- - Uso de un API externa al menos.
-   
+ - Uso de un API externa, al menos.
+
+ - Un formulario web enviando datos a un servicio externo: [formsubmit.co](https://formsubmit.co/unemail@dominio.com)
+
+
+Bola extra 1:
+
  - Separación de parte pública y privada a partir de un sistema externo de autenticación (OAuth)
+
+
+Bola extra 2:
+
+ - Google Tag Manager + Google Analytics
+   
+ - Chabot
 
 
 ## Modalidad pedagógica
 
 Trabajo personal
 
+
 ## Modalidad de evaluación
 
 Revisión de entregables por parte del profesorado.
+
 
 ## Entregables
 
@@ -48,7 +66,6 @@ Revisión de entregables por parte del profesorado.
 4. HTML y recursos (imágenes y css) en un repositorio github personal.
 
 5. Web publicada en internet.
-
 
 
 ## Criterios de rendimiento
