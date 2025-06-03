@@ -41,8 +41,10 @@ Bola extra 1:
 Bola extra 2:
 
  - Integrar Google Analytics
-   
- - Integrar un ChaTbot
+
+Bola extra 3:
+
+ - Integrar un ChatBot
 
 
 ## Modalidad pedagógica
