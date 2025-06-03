@@ -32,23 +32,22 @@ Proyecto personal a elegir que incluya, al menos las siguientes características
 
  - Un formulario web enviando datos a un servicio externo: [formsubmit.co](https://formsubmit.co/unemail@dominio.com)
 
- - Testing. Pruebas de renders e interacciones básicas (@testing-library/user-event)
+ - Testing. Pruebas básicas. Unitarias y de componentes (@testing-library)
 
 
 Bola extra 1:
 
+ - Integrar Google Analytics
+
  - Separación de parte pública y privada a partir de un sistema externo de autenticación (OAuth)
-   
+
 
 Bola extra 2:
 
- - Integrar Google Analytics
-
  - CI básico: Correr tests con GitHub Actions
 
-Bola extra 3:
-
  - Tests E2E, con Playwright
+
 
 ## Modalidad pedagógica
 
