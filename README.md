@@ -3,7 +3,7 @@
 
 ## Situación profesional
 
-Crear desde cero una web para el portfolio personal donde se empleen las habilidades demandadas en un entorno profesional real.
+Crear desde cero una web donde se empleen las habilidades demandadas en un entorno profesional real.
 
 
 ## Profesión:
