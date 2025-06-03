@@ -40,9 +40,9 @@ Bola extra 1:
 
 Bola extra 2:
 
- - Google Tag Manager + Google Analytics
+ - Integrar Google Analytics
    
- - Chabot
+ - Integrar un ChaTbot
 
 
 ## Modalidad pedagógica
