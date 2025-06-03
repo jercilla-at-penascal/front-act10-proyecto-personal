@@ -61,15 +61,17 @@ Revisión de entregables por parte del profesorado.
 
 ## Entregables
 
-1. Historias de usuario que contemplan los requisitos de la actividad.
+1. Historias de usuario que contemplan los requisitos de la actividad. (Taiga)
 
-2. Prototipo de baja fidelidad (boceto).
+2. Tareas TODO. (Taiga)
 
-3. Prototipo de alta fidelidad y guía de estilo (penpot).
+3. Prototipo de baja fidelidad (boceto).
 
-4. HTML y recursos (imágenes y css) en un repositorio github personal.
+4. Prototipo de alta fidelidad y guía de estilo (penpot).
 
-5. Web publicada en internet.
+5. HTML y recursos (imágenes y css) en un repositorio github personal.
+
+6. Web publicada en internet.
 
 
 ## Criterios de rendimiento
